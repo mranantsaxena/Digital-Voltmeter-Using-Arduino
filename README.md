@@ -45,10 +45,3 @@ The code is written in C++ using the standard Arduino framework. It utilizes `Wi
 
 ### Dependencies
 * [LiquidCrystal_I2C Library](https://github.com/johnrickman/LiquidCrystal_I2C)
-
----
-
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Arduino-Digital-Voltmeter.git](https://github.com/YOUR_USERNAME/Arduino-Digital-Voltmeter.git)
